@@ -36,7 +36,7 @@
 
 * [2.5 如何为 OceanBase 贡献源代码](zh-CN/2.construction-of-oceanbase-development-environment/7.how-to-contribute-to-oceanbase.md)：介绍为 OceanBase 数据库贡献源代码的流程。
 
-* [2.6 课后实践](zh-CN/2.construction-of-oceanbase-development-environment/8.practical-exercises.md)：根据本章内容给出相关题目供大家练习。
+* [2.6 课后实践](zh-CN/2.construction-of-oceanbase-development-environment/8.practical-exercises-of-02.md)：根据本章内容给出相关题目供大家练习。
 
 ### 第 3 章：OceanBase 存储引擎
 
@@ -52,7 +52,7 @@
 
 * [3.5 查询过程介绍](zh-CN/3.oceanbase-storage-engine/6.introduction-to-query-process.md)：介绍 OceanBase 数据库查询过程，包括主表查询和索引回表查询。
 
-* [3.6 课后实践](zh-CN/3.oceanbase-storage-engine/7.practical-exercises.md)：根据本章内容给出相关题目供大家练习。
+* [3.6 课后实践](zh-CN/3.oceanbase-storage-engine/7.practical-exercises-of-03.md)：根据本章内容给出相关题目供大家练习。
 
 ### 第 4 章：OceanBase SQL 引擎
 
@@ -74,7 +74,7 @@
 
 * [4.8 执行模式](zh-CN/4.oceanbase-sql-engine/10.execution-mode.md)：介绍 OceanBase 数据库的执行模式，包括本地执行、远程执行以及 DAS（Data Access Service）执行。
 
-* [4.9 课后实践](zh-CN/4.oceanbase-sql-engine/11.homework.md)：根据本章内容给出相关题目供大家练习。
+* [4.9 课后实践](zh-CN/4.oceanbase-sql-engine/11.practical-exercises-of-04.md)：根据本章内容给出相关题目供大家练习。
 
 ### 第 5 章：OceanBase 事务引擎
 
@@ -88,7 +88,7 @@
 
 * [5.4 事务优化](zh-CN/5.transaction-engine/5.transaction-optimization.md)：介绍 OceanBase 数据库各个时期的事务优化思路。
 
-* [5.5 课后实践](zh-CN/5.transaction-engine/6.homework.md)：根据本章内容给出相关题目供大家练习。
+* [5.5 课后实践](zh-CN/5.transaction-engine/6.practical-exercises-of-05.md)：根据本章内容给出相关题目供大家练习。
 
 ### 第 6 章：OceanBase 内存管理框架与线程模型
 
@@ -100,7 +100,7 @@
 
 * [6.3 SQL 执行过程](zh-CN//6.memory-frame/4.sql-execution-process.md)：介绍 OceanBase 数据库中一条 SQL 请求执行的完整过程。
 
-* [6.4 课后实践](zh-CN//6.memory-frame/5.homework.md)：根据本章内容给出相关题目供大家练习。
+* [6.4 课后实践](zh-CN//6.memory-frame/5.practical-exercises-of-06.md)：根据本章内容给出相关题目供大家练习。
 
 ### 第 7 章：OceanBase 开源质量体系
 
